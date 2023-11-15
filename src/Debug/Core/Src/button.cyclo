@@ -1,0 +1,6 @@
+../Core/Src/button.c:15:5:isBtn1Pressed	2
+../Core/Src/button.c:23:5:isBtn2Pressed	2
+../Core/Src/button.c:31:5:isBtn3Pressed	2
+../Core/Src/button.c:45:6:getInput1	5
+../Core/Src/button.c:60:6:getInput2	5
+../Core/Src/button.c:75:6:getInput3	5
