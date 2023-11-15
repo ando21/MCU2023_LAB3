@@ -1,0 +1,4 @@
+../Core/Src/software_timer.c:17:6:setTimer	16	static
+../Core/Src/software_timer.c:22:6:setSegmentDuration	4	static
+../Core/Src/software_timer.c:27:6:segmentActivate	4	static
+../Core/Src/software_timer.c:35:6:timerActivate	4	static
