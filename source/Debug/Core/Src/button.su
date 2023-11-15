@@ -1,0 +1,6 @@
+../Core/Src/button.c:20:5:pressBtn1	4	static
+../Core/Src/button.c:28:5:pressBtn2	4	static
+../Core/Src/button.c:36:5:pressBtn3	4	static
+../Core/Src/button.c:50:6:getKeyInput1	8	static
+../Core/Src/button.c:65:6:getKeyInput2	8	static
+../Core/Src/button.c:80:6:getKeyInput3	8	static

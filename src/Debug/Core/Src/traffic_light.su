@@ -1,5 +1,0 @@
-../Core/Src/traffic_light.c:26:6:INIT	16	static
-../Core/Src/traffic_light.c:39:6:red	16	static
-../Core/Src/traffic_light.c:56:6:green	16	static
-../Core/Src/traffic_light.c:73:6:yellow	16	static
-../Core/Src/traffic_light.c:92:6:normalRun	16	static

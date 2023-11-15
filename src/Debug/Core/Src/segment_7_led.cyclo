@@ -1,4 +1,0 @@
-../Core/Src/segment_7_led.c:15:6:display7SegPortA	11
-../Core/Src/segment_7_led.c:112:6:display7SegPortB	11
-../Core/Src/segment_7_led.c:208:6:displayA	3
-../Core/Src/segment_7_led.c:224:6:displayB	3

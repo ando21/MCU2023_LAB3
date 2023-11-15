@@ -1,0 +1,5 @@
+../Core/Src/fsm.c:16:6:normalMode	8	static
+../Core/Src/fsm.c:131:6:redIncrease	8	static
+../Core/Src/fsm.c:153:6:greenIncrease	8	static
+../Core/Src/fsm.c:175:6:amberIncrease	8	static
+../Core/Src/fsm.c:198:6:buttonStateFSM	8	static

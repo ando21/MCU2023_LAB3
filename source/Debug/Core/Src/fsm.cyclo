@@ -1,0 +1,5 @@
+../Core/Src/fsm.c:16:6:normalMode	20
+../Core/Src/fsm.c:131:6:redIncrease	5
+../Core/Src/fsm.c:153:6:greenIncrease	5
+../Core/Src/fsm.c:175:6:amberIncrease	5
+../Core/Src/fsm.c:198:6:buttonStateFSM	10
